@@ -1,4 +1,4 @@
-# Hi, it's a <a href="https://yulia-kr.github.io/assets/index.html" target="_blank">my CV page</a> 👩🏼‍💻
+# Hi, it's <a href="https://yulia-kr.github.io/assets/index.html" target="_blank">my CV page</a> 👩🏼‍💻
 
 I created a website directly from a repository on GitHub to test how it works.
 
